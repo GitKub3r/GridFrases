@@ -1,0 +1,18 @@
+body {
+    height: 95vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 15vh;
+}
+
+span {
+    font-size: 15vh;
+    color: orange;
+}
